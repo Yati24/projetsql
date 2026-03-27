@@ -28,12 +28,13 @@
 
 ### base relationnelle postgre
 1. créer une base de données `shrek_school` et se connecter.
-2. exécuter le script `01_creation_et_donnees.sql`
-3. exécutez le script `02_requetes_exploitation.sql`
-4. exécutez le script `03_requetes_analyse.sql` 
+2. exécuter le script `shrek.sql`
+3. exécutez le script `scripts-partie2.sql`
+4. exécutez le script `scripts-partie3.sql`
+5. exécutez le script `scripts-partie4.sql`
+6. exécutez le script `scripts-partie5.sql` 
 
 
 ### base secondaire mongodb
 1. se connecter à mongodb 
-2. ouvrir le fichier `05_nosql.mongodb.js`
-3. exécutez le script. `nosql.mongodb.sql`# projetsql
+2. exécutez le script. `nosql.mongodb.js
